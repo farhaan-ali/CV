@@ -1,6 +1,6 @@
-## Your Name
+## Farhaan Ali
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+ I am a full-stack software developer in training with Makers Academy, Europe’s leading developer bootcamp. Before joining Makers I was working in the not-for-profit sector as a Manager with experience in Operations, Finance and Management.   
 
 ## Projects
 
@@ -42,22 +42,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Aug 2020 to Nov 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London (Sept 2019 to Sept 2020)
 
-- Subject, any specialisms
-- Grade
+- MSc Business Analytics 
+- Distinction (equivalent to 1st Class Honors)
 - Other cool stuff
 
-#### Any other qualifications
+#### Nottingham Trent University (Sept 2014 to June 2019)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA Business  
+- 1st Class Honors
+- President of Local Volunteer Club
+
+#### Tableau Desktop Specialist Certification
+
+Can use Tableau proficiently to analyse data and create visualisations.  
 
 ## Hobbies
 
