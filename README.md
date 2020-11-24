@@ -11,7 +11,7 @@
 
 ## Who am I? 
 
-I'm a proactive, energized, and ambitious **Full Stack Junior Developer**, looking for a role where I can continue to challenge myself and extend my programming knowledge 
+I'm a proactive, energetic, and ambitious **Full Stack Junior Developer**, looking for a role where I can continue to challenge myself and extend my programming knowledge 
 whilst working on products and services that bring value to society. 
 
 I started my career in the not-for-profit sector working in various operational and management roles. I got to travel to over 40 countries, lead and manage people and projects. I wanted a different challenge that involved more of a technical skillset hence I started a Master's Degree in Business Analytics (think applied data science) where I became more passionate about engineering vs just analytics and machine learning. It was during my data engineering course where we had to train and deploy a machine learning models as part of a data pipeline where my interest in engineering got sparked. I always believed you needed a Computer Science degree to become a programmer. After some research, it became apparent that this isn't the case, fast-forward a few months in which I decided to commit to software engineering as a career route by attending the Bootcamp.
