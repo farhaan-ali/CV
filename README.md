@@ -74,6 +74,7 @@ I have presented my previous organisations 5-year plan at the global conference 
           <li>Go</li>
           <li>Ruby</li>
           <li>JavaScript</li>
+          <li>SQL</li>
           <li>HTML5</li>
           <li>CSS3</li>
         </ul>
