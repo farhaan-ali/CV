@@ -1,6 +1,6 @@
-# Farhaan Ali
-
 <div align="center">
+
+# Farhaan Ali
 
 ### Navigation 
 
