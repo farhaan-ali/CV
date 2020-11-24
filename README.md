@@ -154,7 +154,7 @@ I have presented my previous organisations 5-year plan at the global conference 
 ## Experience
 
 **AIESEC International - Rotterdam, The Netherlands** (June 2017 – Sept 2018)    
-*Head of Finance* 
+*Vice-President of Finance* 
  - Managed the global finance department and budget of €2,000,000 to achieve a 97% budget execution.
  - Modernised business intelligence reports using Tableau as opposed to excel and generated 120+ of these reports
    monthly.
